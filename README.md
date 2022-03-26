@@ -39,3 +39,13 @@ Here are some ideas to get you started:
 ## IDE
 + IntelliJ
 + PhpStorm
+
+## 📚 Want to learn with me?
++ [Java: Unsafe at any speed](https://blogs.oracle.com/javamagazine/post/the-unsafe-class-unsafe-at-any-speed)
++ [Java: Foreign memory access](https://openjdk.java.net/jeps/393)
++ [Java: SIMD](https://openjdk.java.net/jeps/417)
++ [Rust: Async Book](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
+
+## ⚡ Fun fact
++ Most code in my profile work on my machine
++ Performance of my code depend on when to use it

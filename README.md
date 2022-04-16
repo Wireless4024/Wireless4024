@@ -1,7 +1,7 @@
 ### Knock, Knock! any cat here?
 ![Cat gif from internet](https://thumbs.gfycat.com/FaroffFreeAfricangoldencat-max-1mb.gif)
 
-## Stat
+## Stats
 [![Wireless4024's GitHub stats](https://github-readme-stats.vercel.app/api?username=wireless4024&show_icons=true&theme=radical&hide_border=true&title_color=FF4D00&text_color=42A4F3)](https://github.com/Wireless4024)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wireless4024&theme=radical&hide_border=true&ring=FF4D00&currStreakNum=FF4D00&sideNums=FF4D00&sideLabels=FF4000&currStreakLabel=FF4000&fire=EE6191&dates=42A4F3)](https://git.io/streak-stats)
 ## Top languages

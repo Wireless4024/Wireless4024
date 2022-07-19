@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# config kvm parameters (windows 10 will crash by default) and launch `virt-manager` 
+
+sudo bash -c 'echo 1 > /sys/module/kvm/parameters/ignore_msrs'
+sudo bash -c 'echo 0 > /sys/module/kvm/parameters/report_ignored_msrs'
+sudo systemctl start libvirtd
+virt-manager

@@ -1,8 +1,8 @@
-### Knock, Knock! any cat here?
-![Cat gif from internet](https://thumbs.gfycat.com/FaroffFreeAfricangoldencat-max-1mb.gif)
+[//]: # (### Knock, Knock! any cat here?)
+[//]: # (![Cat gif from internet]&#40;https://thumbs.gfycat.com/FaroffFreeAfricangoldencat-max-1mb.gif&#41;)
 
 ## Stats
-[![Wireless4024's GitHub stats](https://github-readme-stats.vercel.app/api?username=wireless4024&show_icons=true&theme=radical&hide_border=true&title_color=FF4D00&text_color=42A4F3)](https://github.com/Wireless4024)  
+[//]: # ([![Wireless4024's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=wireless4024&show_icons=true&theme=radical&hide_border=true&title_color=FF4D00&text_color=42A4F3&#41;]&#40;https://github.com/Wireless4024&#41;  )
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wireless4024&theme=radical&hide_border=true&ring=FF4D00&currStreakNum=FF4D00&sideNums=FF4D00&sideLabels=FF4000&currStreakLabel=FF4000&fire=EE6191&dates=42A4F3)](https://git.io/streak-stats)
 ## Top languages
 [![Wireless4024's GitHub Top lang](https://github-readme-stats.vercel.app/api/top-langs?username=wireless4024&show_icons=true&theme=radical&hide_border=true&title_color=FF4D00&text_color=42A4F3&layout=compact&langs_count=4)](https://github.com/Wireless4024)  
@@ -23,22 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🌱 I’m currently learning
-+ [Rust](https://www.rust-lang.org/)
-  > a very fast language with low level feature! but going deeper also cost a lot of time!
-  - [Actix.rs](https://actix.rs/)
-  - [MongoDB](https://github.com/mongodb/mongo-rust-driver)
-  - [Tokio](https://tokio.rs/)
-+ [Kotlin](https://kotlinlang.org/)
-  > easier version of java with more language feature! if something missing I will go to maven!
-  - [Spring Boot](https://spring.io/projects/spring-boot)
-  - [PostgreSQL](https://www.postgresql.org/) w/ [r2dbc](https://r2dbc.io/)
-  - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) hybrid with [RxJava](https://reactivex.io/)
-
-## IDE
-+ IntelliJ
-+ PhpStorm
 
 ## 📚 Want to learn with me?
 + [Java: Unsafe at any speed](https://blogs.oracle.com/javamagazine/post/the-unsafe-class-unsafe-at-any-speed)

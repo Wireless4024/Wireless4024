@@ -1,7 +1,7 @@
 [//]: # (### Knock, Knock! any cat here?)
 [//]: # (![Cat gif from internet]&#40;https://thumbs.gfycat.com/FaroffFreeAfricangoldencat-max-1mb.gif&#41;)
 ## Who am I?
-Hi. I'm twenty, working as backend developer.  
+Hi. I'm twenty, previously working as backend developer but now looking for new opportunity.  
 My favourite language is [Rust](https://github.com/rust-lang/rust), [Kotlin](https://github.com/JetBrains/kotlin) and [TypeScript](https://github.com/microsoft/TypeScript).
 
 ## Github Sumary

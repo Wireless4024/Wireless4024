@@ -1,11 +1,13 @@
 [//]: # (### Knock, Knock! any cat here?)
 [//]: # (![Cat gif from internet]&#40;https://thumbs.gfycat.com/FaroffFreeAfricangoldencat-max-1mb.gif&#41;)
 
-*Remember* **failure would stick with you forever.**
+**The sense that your soul is eternal makes you cowardly, because failure would stick with you forever.**
 
 ## Who am I?
 Hi. I'm twenty years old INTP guy, previously working as backend developer. now I'm looking for new opportunity.  
-My favourite language is [Rust](https://github.com/rust-lang/rust), [Kotlin](https://github.com/JetBrains/kotlin) and [TypeScript](https://github.com/microsoft/TypeScript).
+My favourite language is [Rust](https://github.com/rust-lang/rust), [Kotlin](https://github.com/JetBrains/kotlin) and [TypeScript](https://github.com/microsoft/TypeScript).  
+I spend about [14 hours per week](https://wakatime.com/@wireless4024) in coding, mostly just to ensure my knowledge don't want to leave my brain cells.  
+I'm interested in backend, devops and sysadmin (maybe anything that end-user won't see).  
 
 
 ## Github Sumary

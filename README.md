@@ -2,12 +2,8 @@
 [//]: # (![Cat gif from internet]&#40;https://thumbs.gfycat.com/FaroffFreeAfricangoldencat-max-1mb.gif&#41;)
 
 ## Who am I?
-Hi. I'm twenty years old ISTP guy, previously working as backend developer. now I'm looking for new opportunity.  
+Hi. I'm twenty years old ISTP guy, working as backend engineer at [Xaidat](https://github.com/xaidat).  
 My favourite language is [Rust](https://github.com/rust-lang/rust), [Kotlin](https://github.com/JetBrains/kotlin) and [TypeScript](https://github.com/microsoft/TypeScript).  
-
-I start to learn programming since [2018](https://github.com/Wireless4024?tab=overview&from=2018-12-01&to=2018-12-31#user-activity-overview), 
-my first programming language is java.  
-Mostly my programming experiences came from trial and error and googling.     
 
 ## Github Sumary
 [//]: # ([![Wireless4024's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=wireless4024&show_icons=true&theme=radical&hide_border=true&title_color=FF4D00&text_color=42A4F3&#41;]&#40;https://github.com/Wireless4024&#41;  )

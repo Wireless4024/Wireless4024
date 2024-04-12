@@ -1,10 +1,6 @@
 [//]: # (### Knock, Knock! any cat here?)
 [//]: # (![Cat gif from internet]&#40;https://thumbs.gfycat.com/FaroffFreeAfricangoldencat-max-1mb.gif&#41;)
 
-## Who am I?
-Hi. I'm twenty years old ISTP guy, working as backend engineer at [Xaidat](https://github.com/xaidat).  
-My favourite language is [Rust](https://github.com/rust-lang/rust), [Kotlin](https://github.com/JetBrains/kotlin) and [TypeScript](https://github.com/microsoft/TypeScript).  
-
 ## Github Sumary
 [//]: # ([![Wireless4024's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=wireless4024&show_icons=true&theme=radical&hide_border=true&title_color=FF4D00&text_color=42A4F3&#41;]&#40;https://github.com/Wireless4024&#41;  )
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wireless4024&theme=radical&hide_border=true&ring=FF4D00&currStreakNum=FF4D00&sideNums=FF4D00&sideLabels=FF4000&currStreakLabel=FF4000&fire=EE6191&dates=42A4F3)](https://git.io/streak-stats)
